@@ -8,6 +8,8 @@ fun main(args: Array<String>) {
 //val declares a read-only property, var a mutable one
 
 
+
+
     val mike = Person("Mike", 23)
     //Modifier data adds:
     /*1.toString that displays all primary constructor
